@@ -4,6 +4,12 @@
 
 v1.1 설치 파일과 버전별 변경 안내는 아래 공식 배포 페이지에서 제공합니다.
 
+## 최신 v1.1 수정본
+
+[DotoliAI-1.1-r2-setup.exe 다운로드](https://github.com/daraming92/dotori_ai/releases/download/v1.1/DotoliAI-1.1-r2-setup.exe)
+
+업데이트 안내를 줄이고 다운로드 한 번으로 설치·재실행까지 이어지게 개선했습니다. **기존 v1.1 사용자는 수정본을 직접 설치**하세요. 자동 채널은 원래 v1.1을 유지하며 수정본도 이후 상위 버전으로의 업데이트를 지원합니다. 기존 파일은 보관용으로 유지합니다.
+
 ## 다운로드와 시작
 
 [공식 다운로드](https://github.com/daraming92/dotori_ai/releases/latest)에서 `Source code.zip`이 아니라 `DotoliAI-버전-setup.exe` 형식의 설치 파일을 선택하세요. 공개 저장소의 설치 파일 다운로드에는 GitHub 로그인이 필요하지 않습니다. 제작자가 제공하는 정확한 파일명과 SHA256을 대조하세요. 출처나 무결성을 확인할 수 없는 파일을 실행하지 마세요.
